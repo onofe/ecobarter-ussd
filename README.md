@@ -50,3 +50,5 @@ For detailed system architecture, data models, and technical implementation, see
 View the complete USSD user journey: [EcoBarter USSD Workflow on Figma](https://www.figma.com/board/x2Qn8VbOAzJ1uQvQr77bVx/Ecobarter-USSD-Workflow?node-id=1-5&t=OZV8jIOUVSF64ph9-1)
 
 ---
+## Project Status
+This is an MVP (Minimum Viable Product) focusing on core USSD functionality. Future phases will include multi-language support and advanced analytics.
